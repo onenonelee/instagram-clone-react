@@ -1,0 +1,29 @@
+.app__header {
+  background-color: white;
+  border-bottom: 1px solid lightgray;
+}
+.header__wrapper {
+  margin: auto;
+  display: flex;
+  max-width: 900px;
+  padding: 10px;
+}
+.header__image {
+  margin-top: 5px;
+}
+
+.header__search {
+  margin: auto;
+}
+.search__input {
+  height: 25px;
+  border: 1px solid lightgray;
+  border-radius: 3px;
+  width: 200px;
+  background-color: #fafafa;
+}
+.header__links {
+}
+.header__link {
+  padding: 5px;
+}

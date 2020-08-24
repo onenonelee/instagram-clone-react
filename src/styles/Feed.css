@@ -1,0 +1,32 @@
+.contents__stories {
+  margin-top: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 600px;
+  padding: 5px;
+  background-color: white;
+  border: 1px solid lightgray;
+  border-radius: 3px;
+}
+.stories {
+  padding: 5px;
+}
+ul.stories li {
+  padding: 5px;
+  display: inline-block;
+  margin-right: 3px;
+}
+.story {
+  width: 80px;
+}
+
+.story__pic {
+  position: relative;
+  margin: auto;
+  height: 60px;
+  width: 60px;
+  border-radius: 50%;
+  object-fit: cover;
+  padding: 2px;
+  border: 2px solid brown;
+}
